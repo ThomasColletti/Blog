@@ -1,7 +1,6 @@
 # Understanding Randomness in Computing and Machine Learning Reproducibility
 
-By Tao Feng
-
+By Manus AI
 
 Randomness is a fundamental concept in computer science, underpinning everything from secure cryptography to stochastic processes in machine learning. However, the deterministic nature of computers makes generating true randomness a complex challenge. Furthermore, when applying randomness in machine learning (ML), practitioners often encounter a frustrating phenomenon: running the exact same code with the same random seeds inside different Docker images can yield different modeling results, predictions, and learnings. 
 
